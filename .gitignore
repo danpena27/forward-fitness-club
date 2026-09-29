@@ -1,0 +1,16 @@
+# Local files and build/cache artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.bak
+*.exe
+*.zip
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+.vscode/
+.idea/
